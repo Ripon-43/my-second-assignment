@@ -146,6 +146,10 @@
         width: 362.1px;
         height: 70px;}
 
+        .fa-youtube, .fa-facebook, .fa-twitter, .fa-instagram, .fa-futbol{
+            color: gray;
+        }
+
         .footer-main{
             text-align: center;
             background-color: white;
